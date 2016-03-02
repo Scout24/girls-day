@@ -652,8 +652,7 @@ body {
 }
 @font-face {
   font-family: 'fontello';
-src: url('../../designs/is24c/common/fonts/fontello/font/fontello.eot');
-src: url('../../designs/is24c/common/fonts/fontello/font/fontello.eot#iefix') format('embedded-opentype'), url('../../designs/is24c/common/fonts/fontello/font/fontello.woff') format('woff'), url('../../designs/is24c/common/fonts/fontello/font/fontello.ttf') format('truetype'), url('../../designs/is24c/common/fonts/fontello/font/fontello.svg#fontello') format('svg');
+src: url('//www.static-immobilienscout24.de/fro/opensans/5/font/opensans_latin_300.woff2');
 font-style: normal;
 font-weight: normal;
 }
