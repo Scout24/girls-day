@@ -370,9 +370,9 @@
   position: relative;
 }
 #ui .ui-select:after {
-  content: '\E80d';
+  content: '\f078';
   display: inline-block;
-  font-family: 'fontello';
+  font-family: 'FontAwesome';
   font-style: normal;
   font-weight: normal;
   line-height: 1em;
@@ -384,7 +384,7 @@
   padding: 0 0 0 0;
 }
 #ui .ui-select.open:after {
-  content: '\E800';
+  content: '\f077';
 }
 #ui .ui-select.open li.current {
   color: #ff7500;
@@ -650,13 +650,22 @@ body {
 }
 
 }
+
 @font-face {
-  font-family: 'fontello';
-src: url('font/fontello.eot');
-src: url('font/fontello.eot#iefix') format('embedded-opentype'), url('font/fontello.woff') format('woff'), url('font/fontello.ttf') format('truetype'), url('font/fontello.svg#fontello') format('svg');
-font-style: normal;
-font-weight: normal;
+    font-family: 'fontello';
+    src: url('../font/fontello.eot');
+    src: url('../font/fontello.eot#iefix') format('embedded-opentype'), url('../font/fontello.woff') format('woff'), url('../font/fontello.ttf') format('truetype'), url('../font/fontello.svg#fontello')       format('svg');
+    font-style: normal; 
+    font-weight: normal;
 }
+@font-face {
+  font-family: 'FontAwesome';
+    src: url('../font-awesome-4.5.0/fonts/fontawesome-webfont.eot');
+    src: url('../font-awesome-4.5.0/fonts/fontawesome-webfont.eot#iefix') format('embedded-opentype'), url('../font-awesome-4.5.0/fonts/fontawesome-webfont.woff') format('woff'), url('../font-awesome-    4.5.0/fonts/fontawesome-webfont.ttf') format('truetype'), url('../font-awesome-4.5.0/fonts/fontawesome-webfont.svg#fontello') format('svg');
+    font-style: normal;
+    font-weight: lighter;
+}
+
 .icon-angle-double-up-a:after {
   content: '\E814';
   display: inline-block;
@@ -770,9 +779,9 @@ font-weight: normal;
   padding: 0 0 0 0;
 }
 .icon-arrow-up-a:after {
-  content: '\E800';
+  content: '\f077';
   display: inline-block;
-  font-family: 'fontello';
+  font-family: 'FontAwesome';
   font-style: normal;
   font-weight: normal;
   line-height: 1em;
@@ -784,9 +793,9 @@ font-weight: normal;
   padding: 0 0 0 0;
 }
 .icon-arrow-up-b:before {
-  content: '\E800';
+  content: '\f077';
   display: inline-block;
-  font-family: 'fontello';
+  font-family: 'FontAwesome';
   font-style: normal;
   font-weight: normal;
   line-height: 1em;
@@ -798,9 +807,9 @@ font-weight: normal;
   padding: 0 0 0 0;
 }
 .icon-arrow-down-a:after {
-  content: '\E80d';
+  content: '\f078';
   display: inline-block;
-  font-family: 'fontello';
+  font-family: 'FontAwesome';
   font-style: normal;
   font-weight: normal;
   line-height: 1em;
@@ -812,9 +821,9 @@ font-weight: normal;
   padding: 0 0 0 0;
 }
 .icon-arrow-down-b:before {
-  content: '\E80d';
+  content: '\f078';
   display: inline-block;
-  font-family: 'fontello';
+  font-family: 'FontAwesome';
   font-style: normal;
   font-weight: normal;
   line-height: 1em;
@@ -1106,9 +1115,9 @@ font-weight: normal;
   padding: 0 0 0 0;
 }
 .icon-menu-a:after {
-  content: '\E80c';
+  content: '\f0c9';
   display: inline-block;
-  font-family: 'fontello';
+  font-family: 'FontAwesome';
   font-style: normal;
   font-weight: normal;
   line-height: 1em;
@@ -1120,9 +1129,9 @@ font-weight: normal;
   padding: 0 0 0 0;
 }
 .icon-menu-b:before {
-  content: '\E80c';
+  content: '\f0c9';
   display: inline-block;
-  font-family: 'fontello';
+  font-family: 'FontAwesome';
   font-style: normal;
   font-weight: normal;
   line-height: 1em;
@@ -1274,9 +1283,9 @@ font-weight: normal;
   padding: 0 0 0 0;
 }
 .icon-social-facebook-a:after {
-  content: '\E80f';
+  content: '\f230';
   display: inline-block;
-  font-family: 'fontello';
+  font-family: 'FontAwesome';
   font-style: normal;
   font-weight: normal;
   line-height: 1em;
@@ -1288,9 +1297,9 @@ font-weight: normal;
   padding: 0 0 0 0;
 }
 .icon-social-facebook-b:before {
-  content: '\E80f';
+  content: '\f230';
   display: inline-block;
-  font-family: 'fontello';
+  font-family: 'FontAwesome';
   font-style: normal;
   font-weight: normal;
   line-height: 1em;
@@ -1302,9 +1311,9 @@ font-weight: normal;
   padding: 0 0 0 0;
 }
 .icon-social-twitter-a:after {
-  content: '\E80e';
+  content: '\f081';
   display: inline-block;
-  font-family: 'fontello';
+  font-family: 'FontAwesome';
   font-style: normal;
   font-weight: normal;
   line-height: 1em;
@@ -1316,9 +1325,9 @@ font-weight: normal;
   padding: 0 0 0 0;
 }
 .icon-social-twitter-b:before {
-  content: '\E80e';
+  content: '\f081';
   display: inline-block;
-  font-family: 'fontello';
+  font-family: 'FontAwesome';
   font-style: normal;
   font-weight: normal;
   line-height: 1em;
@@ -1358,9 +1367,9 @@ font-weight: normal;
   padding: 0 0 0 0;
 }
 .icon-social-youtube-a:after {
-  content: '\E811';
+  content: '\f167';
   display: inline-block;
-  font-family: 'fontello';
+  font-family: 'FontAwesome';
   font-style: normal;
   font-weight: normal;
   line-height: 1em;
@@ -1372,9 +1381,9 @@ font-weight: normal;
   padding: 0 0 0 0;
 }
 .icon-social-youtube-b:before {
-  content: '\E811';
+  content: '\f167';
   display: inline-block;
-  font-family: 'fontello';
+  font-family: 'FontAwesome';
   font-style: normal;
   font-weight: normal;
   line-height: 1em;
@@ -2036,9 +2045,9 @@ font-weight: normal;
 }
 #ui .publication-list .publication-filter .publication-tags:after,
 #ui .publication-list .publication-filter .publication-categories:after {
-  content: '\E80d';
+  content: '\f078';
   display: inline-block;
-  font-family: 'fontello';
+  font-family: 'FontAwesome';
   font-style: normal;
   font-weight: normal;
   line-height: 1em;
@@ -2051,7 +2060,7 @@ font-weight: normal;
 }
 #ui .publication-list .publication-filter .publication-tags.open:after,
 #ui .publication-list .publication-filter .publication-categories.open:after {
-  content: '\E800';
+  content: '';
 }
 #ui .publication-list .publication-filter .publication-tags.open li.current,
 #ui .publication-list .publication-filter .publication-categories.open li.current {
@@ -2237,9 +2246,9 @@ font-weight: normal;
   width: 19em;
 }
 #ui .teasercarousel .ui-button:before {
-  content: '\E811';
+  content: '\f167';
   display: inline-block;
-  font-family: 'fontello';
+  font-family: 'FontAwesome';
   font-style: normal;
   font-weight: normal;
   line-height: 1em;
@@ -3663,9 +3672,9 @@ font-weight: normal;
   cursor: pointer;
 }
 #ui .panel > header.toggle:after {
-  content: '\E800';
+  content: '\f077';
   display: inline-block;
-  font-family: 'fontello';
+  font-family: 'FontAwesome';
   font-style: normal;
   font-weight: normal;
   line-height: 1em;
@@ -3690,7 +3699,7 @@ font-weight: normal;
   top: -0.8em;
 }
 #ui .panel > header.closed:after {
-  content: '\E80d';
+  content: '\f078';
 }
 #ui .panel > header h2 {
   background-color: #ffffff;
@@ -3974,9 +3983,9 @@ font-weight: normal;
   float: right;
 }
 #ui #header .grid .menu:before {
-  content: '\E80c';
+  content: '\f0c9';
   display: inline-block;
-  font-family: 'fontello';
+  font-family: 'FontAwesome';
   font-style: normal;
   font-weight: normal;
   line-height: 1em;
@@ -4203,9 +4212,9 @@ font-weight: normal;
   width: 2.142857142857143em;
 }
 #ui .sub-nav ul li.back-to-top a:after {
-  content: '\E800';
+  content: '\f077';
   display: inline-block;
-  font-family: 'fontello';
+  font-family: 'FontAwesome';
   font-style: normal;
   font-weight: normal;
   line-height: 1em;
@@ -4372,9 +4381,9 @@ font-weight: normal;
   width: 1.2em;
 }
 #ui .meta-nav li a.icon.youtube:before {
-  content: '\E811';
+  content: '\f167';
   display: inline-block;
-  font-family: 'fontello';
+  font-family: 'FontAwesome';
   font-style: normal;
   font-weight: normal;
   line-height: 1em;
@@ -4389,9 +4398,9 @@ font-weight: normal;
   background-color: #cc181e !important;
 }
 #ui .meta-nav li a.icon.facebook:before {
-  content: '\E80f';
+  content: '\f230';
   display: inline-block;
-  font-family: 'fontello';
+  font-family: 'FontAwesome';
   font-style: normal;
   font-weight: normal;
   line-height: 1em;
@@ -4406,9 +4415,9 @@ font-weight: normal;
   background-color: #3c599b !important;
 }
 #ui .meta-nav li a.icon.twitter:before {
-  content: '\E80e';
+  content: '\f081';
   display: inline-block;
-  font-family: 'fontello';
+  font-family: 'FontAwesome';
   font-style: normal;
   font-weight: normal;
   line-height: 1em;
@@ -4844,9 +4853,9 @@ font-weight: normal;
   position: relative;
 }
 #ui .context-nav h3:after {
-  content: '\E80d';
+  content: '\f078';
   display: inline-block;
-  font-family: 'fontello';
+  font-family: 'FontAwesome';
   font-style: normal;
   font-weight: normal;
   line-height: 1em;
@@ -4866,9 +4875,9 @@ font-weight: normal;
   top: .15em;
 }
 #ui .context-nav.open h3:after {
-  content: '\E800';
+  content: '\f077';
   display: inline-block;
-  font-family: 'fontello';
+  font-family: 'FontAwesome';
   font-style: normal;
   font-weight: normal;
   line-height: 1em;
@@ -6375,9 +6384,9 @@ font-weight: normal;
   position: relative;
 }
 #ui .contact .vcard h3:after {
-  content: '\E80d';
+  content: '\f078';
   display: inline-block;
-  font-family: 'fontello';
+  font-family: 'FontAwesome';
   font-style: normal;
   font-weight: normal;
   line-height: 1em;
@@ -6397,9 +6406,9 @@ font-weight: normal;
   top: .15em;
 }
 #ui .contact .vcard.open h3:after {
-  content: '\E800';
+  content: '\f077';
   display: inline-block;
-  font-family: 'fontello';
+  font-family: 'FontAwesome';
   font-style: normal;
   font-weight: normal;
   line-height: 1em;
