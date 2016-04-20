@@ -37,12 +37,7 @@
     color: #7e7e7e;
 }
 
-#ui ul.list-bullet {
-    list-style-type: circle;
-}
-
-#ui ul.list-bullet > li {
-    margin-left: 3px;
-    list-style-type: circle;
+#ui ul.list-star-pink > li {
     padding: 2px 0;
+    color: #fa1372;
 }
