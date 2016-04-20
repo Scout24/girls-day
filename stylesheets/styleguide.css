@@ -1,0 +1,48 @@
+#ui .element-name {
+    color: #1D4C69;
+    font-weight: 600;
+    font-size: 17px;
+}
+
+#ui div.code {
+    background-color: #1D4C69;
+    padding: 20px;
+    font-size: 15px;
+}
+
+#ui div.preview {
+    padding: 20px;
+    font-size: 15px;
+    color: #676565;
+    margin-left: 20px;
+}
+
+#ui .tag {
+    color: #F89CF9;
+}
+
+#ui .class {
+    color: #C1C1C1;
+}
+
+#ui .class-name {
+    color: #7EE86B;
+}
+
+#ui .code-text {
+    color: #fff;
+}
+
+#ui .text {
+    color: #7e7e7e;
+}
+
+#ui ul.list-bullet {
+    list-style-type: circle;
+}
+
+#ui ul.list-bullet > li {
+    margin-left: 3px;
+    list-style-type: circle;
+    padding: 2px 0;
+}
