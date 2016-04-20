@@ -1,5 +1,5 @@
 #ui .element-name {
-    color: #1D4C69;
+    color: #000000;
     font-weight: 600;
     font-size: 17px;
 }
@@ -8,13 +8,13 @@
     background-color: #1D4C69;
     padding: 20px;
     font-size: 15px;
+    width: 80%;
 }
 
 #ui div.preview {
     padding: 20px;
     font-size: 15px;
     color: #676565;
-    margin-left: 20px;
 }
 
 #ui .tag {
@@ -22,11 +22,11 @@
 }
 
 #ui .class {
-    color: #C1C1C1;
+    color: #F6D9FF;
 }
 
 #ui .class-name {
-    color: #7EE86B;
+    color: #6BE1E8;
 }
 
 #ui .code-text {
@@ -38,6 +38,28 @@
 }
 
 #ui ul.list-star-pink > li {
-    padding: 2px 0;
+    padding: 4px 0;
     color: #fa1372;
+}
+
+#ui ul.list-star-pink > li i {
+    padding-right: 5px;
+}
+
+#ui ul.list-star-green > li {
+    padding: 4px 0;
+    color: #14c051;
+}
+
+#ui ul.list-star-green > li i {
+    padding-right: 5px;
+}
+
+#ui ul.list-star-blue > li {
+    padding: 4px 0;
+    color: #1295d0;
+}
+
+#ui ul.list-star-blue > li i {
+    padding-right: 5px;
 }
