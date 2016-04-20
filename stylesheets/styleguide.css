@@ -55,11 +55,28 @@
     padding-right: 5px;
 }
 
-#ui ul.list-star-blue > li {
+#ui ul.list-heart-blue > li {
     padding: 4px 0;
     color: #1295d0;
 }
 
-#ui ul.list-star-blue > li i {
+#ui ul.list-heart-blue > li i {
     padding-right: 5px;
+}
+
+#ui ul.list-hashtag-purple > li {
+    padding: 4px 0;
+    color: #7c38d0;
+}
+
+#ui ul.list-hashtag-purple > li i {
+    padding-right: 5px;
+}
+
+#ui a.link-pink {
+    color: #fa1372;
+}
+
+#ui a.link-pink:hover {
+    color: #14c051;
 }
