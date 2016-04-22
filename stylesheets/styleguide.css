@@ -80,3 +80,29 @@
 #ui a.link-pink:hover {
     color: #14c051;
 }
+
+#ui a.link-purple {
+    color: #7c38d0;
+}
+
+#ui a.link-purple:hover {
+    color: #1295d0;
+}
+
+#ui a.link-green {
+    color: #14c051;
+}
+
+#ui a.link-green:hover {
+    color: #7c38d0;
+}
+
+#ui .title-big-green {
+    font-size: 26px;
+    color: #14c051;
+}
+
+#ui .title-big-blue {
+    font-size: 26px;
+    color: #1295d0;
+}
