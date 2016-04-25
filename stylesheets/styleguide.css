@@ -14,7 +14,6 @@
 #ui div.preview {
     padding: 20px;
     font-size: 15px;
-    color: #676565;
 }
 
 #ui .tag {
@@ -115,4 +114,26 @@
 #ui .title-small-purple {
     font-size: 22px;
     color: #7c38d0;
+}
+
+#ui .text-grey {
+    font-size: 15px;
+    color: #5c5a5a;
+}
+
+#ui .text-grey-bold {
+    font-size: 15px;
+    color: #5c5a5a;
+    font-weight: 700;
+}
+
+#ui .text-blue {
+    font-size: 15px;
+    color: #1859AD;
+}
+
+#ui .text-blue-bold {
+    font-size: 15px;
+    color: #1859AD;
+    font-weight: 700;
 }
