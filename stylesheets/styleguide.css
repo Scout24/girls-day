@@ -1,3 +1,7 @@
+#ui .divider {
+    border-top: 2px dashed #1D4C69;
+}
+
 #ui .element-name {
     color: #000000;
     font-weight: 600;
@@ -145,12 +149,42 @@
     font-weight: 400;
     background-color: #14c051;
     text-align: center;
-    padding: 15px 0;
+    padding: 15px 10px;
     margin-bottom: 16px;
 }
 
 #ui .title-green-background:hover {
     background-color: #1295d0;
+}
+
+#ui .title-pink-border {
+    border: 2px solid #fa1372;
+    font-size: 22px;
+    color: #fa1372;
+    text-align: center;
+    padding: 15px 10px;
+    font-weight: 400;
+    margin-bottom: 16px;
+}
+
+#ui .title-pink-border:hover {
+    border-color: #1295d0;
+    color: #1295d0;
+}
+
+#ui .title-purple-border {
+    border: 2px solid #7c38d0;
+    font-size: 22px;
+    color: #7c38d0;
+    text-align: center;
+    padding: 15px 10px;
+    font-weight: 400;
+    margin-bottom: 16px;
+}
+
+#ui .title-purple-border:hover {
+    background-color: #7c38d0;
+    color: #fff;
 }
 
 #ui p.text-grey {
@@ -177,4 +211,36 @@
     color: #1859AD;
     font-weight: 700;
     margin-bottom: 5px;
+}
+
+#ui .image-semiround {
+    display: inline-block;
+    border-radius: 5%;
+}
+
+#ui .image-round {
+    display: inline-block;
+    border-radius: 50%;
+    -webkit-transition: -webkit-transform 1s ease-in-out;
+    transition: transform 1s ease-in-out;
+}
+
+#ui .image-round:hover {
+    -webkit-transform: rotate(40deg);
+    transform: rotate(40deg);
+}
+
+#ui .purple-border {
+    border: 2px dashed #7c38d0;
+    padding: 20px 10px;
+}
+
+#ui .blue-border {
+    border: 1px solid #1295d0;
+    padding: 20px 10px;
+}
+
+#ui .pink-border {
+    border: 1px dotted #fa1372;
+    padding: 20px 10px;
 }
