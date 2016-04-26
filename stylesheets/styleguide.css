@@ -139,6 +139,20 @@
     margin-bottom: 10px;
 }
 
+#ui .title-green-background {
+    font-size: 22px;
+    color: #fff;
+    font-weight: 400;
+    background-color: #14c051;
+    text-align: center;
+    padding: 15px 0;
+    margin-bottom: 16px;
+}
+
+#ui .title-green-background:hover {
+    background-color: #1295d0;
+}
+
 #ui p.text-grey {
     font-size: 15px;
     color: #5c5a5a;
