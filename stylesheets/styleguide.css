@@ -1,3 +1,8 @@
+#ui .sections {
+    border-bottom: 1px dotted #7e7e7e;
+    margin: 50px 0;
+}
+
 #ui .divider {
     border-top: 2px dashed #1D4C69;
 }
