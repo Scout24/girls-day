@@ -1,7 +1,9 @@
-# [Girls'Day 2016](http://www.girls-day.de/)
+# Girls'Day @Scout24
 
-This is the jekyll site for the Girls'Day 2016 at ImmobilienScout24 / AutoScout24.
-Some of the content was added by young girls learning HTML and CSS basics during the german [girls'day](http://www.girls-day.de/).
+This is the jekyll site for the (hopefully from now on) annual [Girls' Day](http://www.girls-day.de/)
+at [ImmobilienScout24](https://www.immobilienscout24.de/) and [AutoScout24](https://www.autoscout24.de/).
+
+Some of the content was created by girls who participated in our HTML/CSS introduction workshops.
 
 
 ## Running
