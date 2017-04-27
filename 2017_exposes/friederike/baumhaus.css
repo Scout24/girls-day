@@ -1,0 +1,8 @@
+img {width: 400px;}
+body {background-color: ghostwhite}
+h1 {color: darkgreen}
+.ZweiSpalten img {float: left;}
+p {font-family: sans-serif;}
+dt {font-weight: 700;}
+dd {padding-left: 1em;}
+dl {display: inline-block;}
