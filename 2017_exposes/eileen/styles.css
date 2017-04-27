@@ -1,0 +1,36 @@
+body {
+    margin: 20px;
+}
+
+img {
+    margin-top: 60px;
+    float: left;
+}
+
+p {
+    margin-top: 160px;
+    width: 400px;
+    float: left;
+    line-height: 35px;
+    margin-left: 155px;
+    font-size: 20px;
+    color: black;
+    background-color: deepskyblue   
+}
+
+div {
+    width: 100%;
+}
+
+table {
+    margin-top: 80px;
+    font-size : 20px;
+}
+
+td {
+    width: 200px;
+}
+h1 {
+    font-size: 50px;
+    color: darkblue;
+}
