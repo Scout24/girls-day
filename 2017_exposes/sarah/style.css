@@ -1,0 +1,35 @@
+h1 {
+    color: mediumblue;
+    font-size: 220%;
+    text-align: center;
+    border-style: dashed;
+    border-width: 2px;
+    border-color: mediumblue;
+    width: 600px;
+}
+
+h2 {
+    background-color: orangered;
+    font-size: 170%;
+    text-align: left;
+    width: 600px;
+}
+
+p{
+    width: 600px;
+    text-align: center;
+}
+
+.right-text {
+    text-align: right;
+    color: orangered;
+}
+
+.center-text {
+    text-align: center;
+    color: mediumblue;
+}
+
+img {
+    width: 600px;
+}
