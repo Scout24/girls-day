@@ -1,0 +1,13 @@
+img {
+    width: 300px;
+    height: 200px;
+    margin-bottom: 20px;
+}
+h1  {
+    font-family: fantasy;
+    color: deeppink;
+}
+h3  {
+    font-family:sans-serif;
+    color: darkblue;
+}
