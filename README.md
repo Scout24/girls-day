@@ -10,7 +10,7 @@ Some of the content was created by girls who participated in our HTML/CSS introd
 This is a jekyll site.
 You will need to [install the jekyll blog engine](https://jekyllrb.com/docs/installation/) to build it.
 
-The contents can be served with
+The contents can be served with:
 
 ```bash
 jekyll serve --watch
