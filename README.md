@@ -17,3 +17,5 @@ jekyll serve --watch
 ```
 
 or by deploying to [GitHub pages](https://pages.github.com/).
+
+See the resulting web page locally on `http://localhost:4000/`.
