@@ -1,0 +1,55 @@
+h1 {
+    color:cadetblue;
+    text-align: center;
+    font-size: 300% 
+       
+}
+
+
+h2 { color:black;
+border-width: 2px;
+    border-style:dotted;
+    border-color:antiquewhite
+
+}
+p{
+    text-align: center;
+    font-size: 90%;
+  background-color:floralwhite;  
+   width: 200px;
+    height: 200px;
+}
+h{text-align: center;
+font-size: 90%;
+    background-color: floralwhite;
+    width: 200px;
+    height: 215px;
+        
+    
+
+}
+
+img {
+    width:270px;
+    height: 270px;  
+}
+
+#speziell {
+    color: blue;
+}
+#ersterteil{ text-align: center;
+    font-size: 100%;
+  background-color:floralwhite;  
+   width: 250px;
+    height: 200px;
+    position: absolute;
+    top: 150px;
+    right: 50px;
+    
+    
+}
+#zweiterteil {text-align: center;
+font-size: 90%;
+    background-color: floralwhite;
+    width: 600px;
+    height: 80px;}

@@ -1,0 +1,25 @@
+img {width: 200px;
+height: 200px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: rgb(102, 153, 255);
+    margin: 10px;
+}
+p {width:200px;
+    background-color: rgb(153, 204, 255);
+    padding: 10px;
+    border-width: 2px;
+    border-style: dotted;
+        border-color: #000000;
+}
+div {
+    display: flex;
+    align-items: center;
+}
+h1 {
+    border-width: 4px;
+    border-style: groove;
+        border-color: #000000;
+    width: 300px;
+    padding: 10px;
+}

@@ -1,0 +1,31 @@
+h2{
+    text-align: center;
+}
+img{
+ 
+    height:auto;
+}
+#text{
+    float:right;
+    width: 45vw;
+    margin-bottom: 100px
+}
+#bild{
+    float:left;
+    width: 45vw;
+}
+#sterne{color: gold;
+float: left;
+margin: 0;
+margin-right: 20px;
+font-size: 20px}
+h4{float: right;
+width: 45vw}
+#box{
+    float: left
+}
+#bewertung{
+    margin-top: 5px;
+    float:left;
+    
+}

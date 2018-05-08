@@ -1,0 +1,39 @@
+h1 {
+    color: black
+
+}
+
+p {
+    text-align: center;
+    font-size: 95%;
+    width: 400px;
+    height: 250px;
+}
+
+h2 { 
+border-width: 2px;
+    border-style: dotted;
+    border-color: crimson;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+#speziell {
+    color: rgb(255, 0, 102)
+    
+}
+#kleinbild {
+    width: 10%;
+    height: 10%;
+    
+}
+#konto {
+    text-align: right;
+}
+#beschreibung{
+    right: 20px;
+    position: absolute;
+top: 20%;
+}

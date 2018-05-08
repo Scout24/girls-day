@@ -1,0 +1,32 @@
+h1 {
+    color:gray;
+    
+ 
+    
+    border-width:2px ;
+    border-style:dotted;
+    border-color:gray;
+}
+
+h2 {
+    color:gray;;
+}
+
+span {
+    font-size: 100%;
+    color: black;
+   ; 
+    width:800px;
+    height:200px;
+}
+
+img {
+    width: 340px;
+    height: 340px;
+    float:right
+}
+
+hr {
+    color:crimson;
+    
+}

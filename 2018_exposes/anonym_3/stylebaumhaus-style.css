@@ -1,0 +1,31 @@
+h1 {
+    color: palevioletred;
+}
+
+h2 {
+    color: #ff99ff;
+    border-width: 2px;
+    border-style: dotted;
+    border-color: white
+}
+
+p {
+    height: 200px;
+}
+
+img {
+    margin-top: 20px;
+    width: 85%;
+    float: left
+
+}
+
+p {
+    font-size: 150%;
+    text-align: center;
+}
+
+#speziell {
+    color: azure
+
+}

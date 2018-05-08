@@ -1,0 +1,36 @@
+img{
+    width: 50%;
+}
+
+
+h1{
+    
+    color:#aa80ff;
+}
+
+
+ul{
+    
+   float: right;
+    color: darkblue;
+    font-size:20px;
+    font-family: Helvetica;
+        width: 44%;
+    font-weight: 200;
+    margin-top: 200px;
+    border:3px dashed #ff66b3;
+    padding: 10px;
+}
+li{
+    
+    list-style: none;
+}
+
+
+p{
+    
+ color:#990073;
+  font-size:20px;
+    
+    
+}

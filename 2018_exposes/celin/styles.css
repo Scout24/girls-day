@@ -1,0 +1,20 @@
+h1 {
+    color: beige;
+    border-width: 1px;
+    border-style:double;
+    border-color: black;
+    background-color: black;
+}
+h4 {
+    color: beige;
+    background-color: black;
+    width: 200px;
+}  
+p{
+    width: 300px;
+}
+img{
+    text-align:center;
+    float: right;
+    width: 400px;
+}  

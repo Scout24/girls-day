@@ -1,0 +1,32 @@
+img {
+    height: 500px;
+    width: 500px;
+        
+}
+#hui {
+    float: right;
+    margin-right: 90px;
+    font-family: Arial;
+    
+}
+h1 {
+   color: #009475;
+    border-width: 2px;
+    border-color: #006e69;
+    border-style: dashed; 
+    padding: 10px;
+}
+ul {
+    padding: 20px;
+    font-size: 19px; 
+}
+p {
+    font-family: Arial;
+    font-size: 17px;
+    margin-left: 20px;
+    margin-right: 50px;
+}
+li {
+    padding: 5px;
+    
+}
