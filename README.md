@@ -1,6 +1,6 @@
 # Girls'Day @Scout24
 
-[This](http://immobilienscout24.github.io/girls-day/) is the jekyll site for the (hopefully from now on) annual [Girls' Day](http://www.girls-day.de/)
+[This](http://scout24.github.io/girls-day/) is the jekyll site for the (hopefully from now on) annual [Girls' Day](http://www.girls-day.de/)
 at [ImmobilienScout24](https://www.immobilienscout24.de/) and [AutoScout24](https://www.autoscout24.de/).
 
 Some of the content was created by girls who participated in our HTML/CSS introduction workshops.
